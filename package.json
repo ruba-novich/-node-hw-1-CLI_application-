@@ -1,0 +1,29 @@
+{
+  "name": "-node-hw-1-cli_application-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruba-novich/-node-hw-1-CLI_application-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruba-novich/-node-hw-1-CLI_application-/issues"
+  },
+  "homepage": "https://github.com/ruba-novich/-node-hw-1-CLI_application-#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
